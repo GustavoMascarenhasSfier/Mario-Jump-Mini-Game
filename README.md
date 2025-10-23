@@ -1,6 +1,6 @@
 # 🍄 Mario Jump — Mini Game
 
-Um mini jogo divertido inspirado no clássico Mario, feito com HTML, CSS e JavaScript puro, onde o jogador deve pular os canos para marcar pontos e evitar o Game Over.
+[![Visitar minha página](https://img.shields.io/badge/🌐_Visitar%20minha%20página-4CAF50?style=for-the-badge)](https://gustavomascarenhassfier.github.io/Mario-Jump-Mini-Game/)
 
 ---
 
